@@ -1,0 +1,9 @@
+F:\git\NewObject\NewObject\NewObjectTests\bin\Debug\NewObjectTests.dll
+F:\git\NewObject\NewObject\NewObjectTests\bin\Debug\NewObjectTests.pdb
+F:\git\NewObject\NewObject\NewObjectTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\git\NewObject\NewObject\NewObjectTests\bin\Debug\NewObject.exe
+F:\git\NewObject\NewObject\NewObjectTests\bin\Debug\NewObject.pdb
+F:\git\NewObject\NewObject\NewObjectTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\git\NewObject\NewObject\NewObjectTests\obj\Debug\NewObjectTests.csprojResolveAssemblyReference.cache
+F:\git\NewObject\NewObject\NewObjectTests\obj\Debug\NewObjectTests.dll
+F:\git\NewObject\NewObject\NewObjectTests\obj\Debug\NewObjectTests.pdb

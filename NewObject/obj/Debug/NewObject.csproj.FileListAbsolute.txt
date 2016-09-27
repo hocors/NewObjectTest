@@ -1,0 +1,6 @@
+F:\git\NewObject\NewObject\bin\Debug\NewObject.exe.config
+F:\git\NewObject\NewObject\obj\Debug\NewObject.csprojResolveAssemblyReference.cache
+F:\git\NewObject\NewObject\bin\Debug\NewObject.exe
+F:\git\NewObject\NewObject\bin\Debug\NewObject.pdb
+F:\git\NewObject\NewObject\obj\Debug\NewObject.exe
+F:\git\NewObject\NewObject\obj\Debug\NewObject.pdb
